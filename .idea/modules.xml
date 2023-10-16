@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Projects/08_hexlet_PythonBasics/.idea/08_hexlet_PythonBasics.iml" filepath="$PROJECT_DIR$/../Projects/08_hexlet_PythonBasics/.idea/08_hexlet_PythonBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hexlet_PythonBasics.iml" filepath="$PROJECT_DIR$/.idea/hexlet_PythonBasics.iml" />
+    </modules>
+  </component>
+</project>
